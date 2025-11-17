@@ -1,0 +1,1 @@
+I've modularized the CNN fine tuning code into an intuitive repository. The full training/validation and prediction workflow is walked through in the "notebooks" folder, in the Assignment 2 jupyter notebook.
